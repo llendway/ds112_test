@@ -1,4 +1,5 @@
-# Excellent title
+
+# Better title
 
 This is a test repo for explaining git and github.
 
